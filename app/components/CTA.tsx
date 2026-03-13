@@ -35,7 +35,7 @@ export default function CTA() {
           </p>
           <div className="cta-actions">
             <a href="#" className="btn-primary">Request Early Access</a>
-            <a href="mailto:hello@employrahq.com" className="btn-secondary">
+            <a href="mailto:tadeniji06@gmail.com" className="btn-secondary">
               Talk to the team
               <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                 <line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/>
